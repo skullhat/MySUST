@@ -1,8 +1,8 @@
 public class Test {
     public static void main(String[] args) {
-        Stock sk = new Stock("ORCL", "Oracle Corporation");
-        sk.previousClosingPrice = 34.5;
-        sk.currentPrice = 34.35;
-        sk.getChangePercent();
+        System.out.println(S_Math.PI);
+        System.out.println(S_Math.add(1, 3));
+        System.out.println(S_Math.mutiply(5, 7));
+        System.out.println(S_Math.max(5, 7));
     }
 }

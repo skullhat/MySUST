@@ -1,0 +1,11 @@
+public class SortArrayList{
+
+}
+/*
+(Sort ArrayList) Write the following method that sorts an ArrayList of
+numbers:
+public static void sort(ArrayList<Integer> list)
+Write a test program that prompts the user to enter 5 numbers, stores them in an
+array list, and displays them in increasing order.
+
+*/
